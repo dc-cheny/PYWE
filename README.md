@@ -1,6 +1,6 @@
 # PYWE
 
-**Codes for our(Yao Chen, Zhengming Zhang) paper: PYWE(PINYIN-Enhanced Word Embeddings), Good luck**
+**Codes for our(Yao Chen, Zhengming Zhang) paper: PYWE(PINYIN-Enhanced Word Embeddings), good luck**
 
 ## Brief Abstract
 Chen et al.(2015) propose multiple-prototype character embeddings which obtain multiple vectors including position-based, cluster-based and nonparametric method for a character and an effective word selection method.
