@@ -16,3 +16,8 @@ According to the papers above, we'll introduce a new method with pre-train word 
 ## Task
 1. building pinyin embeddings by pinyin package in python
 2. training a pre-train model with the combination of VCWE while improving its network
+
+## prepare the data
+We download Chinese Wikipedia dump latest,and normalize all characters as simplified Chinese,then remove nonChinese characters,finally i use PKUSEG for word segmentation.
+the data is in:
+链接: https://pan.baidu.com/s/1Yv-1X6lxOwf0tzJujBAwug 提取码: 7ny7
